@@ -8,5 +8,7 @@ To complete this assignment, edit this README by doing the following,
 
 Once your are done, save this file.
 
-Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+Julienne Pacquing
+I love travelling and swimming
+TO become more knowledgable about computer science and become a better coder.
+
